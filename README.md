@@ -34,13 +34,11 @@ Role      : Aspiring SDE / Full Stack Developer
 Location  : Kanpur, Uttar Pradesh, India
 Email     : sonali.yv99@gmail.com
 ```
-
-- 🔭 Currently building **[AI-cruiter](https://github.com/Sonali-web-dev/AI-cruiter)** — an AI-powered Resume Analyzer & Interview Assistant
 - 🌱 Deepening skills in **LLM Integration**, **REST API Security**, and **Cloud Infrastructure**
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, JWT Authentication, Google Gemini API**
 - 🏆 Solved **150+ DSA challenges** on LeetCode, CodeChef & GeeksforGeeks
 - ☁️ **Oracle Cloud Infrastructure 2025 Foundations Associate** Certified
-- 📄 [View My Resume](#) *(attach your resume PDF link here)*
+- 📄 [View My Resume](#) *(https://drive.google.com/file/d/1ufJSW0l5NHpvhBi3kiYnWpULILb7R9eT/view?usp=drive_link)*
 
 ---
 ## 🛠️ Tech Stack & Skills
