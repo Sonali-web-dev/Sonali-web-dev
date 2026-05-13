@@ -1,83 +1,96 @@
-<!-- ═══════════════════════════════════════════════
-     SONALI YADAV — GitHub Profile README
-     Paste this into: Sonali-web-dev/Sonali-web-dev/README.md
-═══════════════════════════════════════════════ -->
-
-<div align="center">
-
-<!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1455a4&height=200§ion=header&text=Sonali%20Yadav&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20B.Tech%20CSE%20(AI)&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=220§ion=header&text=Sonali%20Yadav&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20B.Tech%20CSE%20(AI)&descAlignY=62&descSize=17&animation=fadeIn" width="100%" alt="Header" />
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1455A4¢er=true&vCenter=true&width=600&lines=Final-Year+B.Tech+%7C+CSE+(AI);Full+Stack+MERN+Developer;LLM+%26+AI+API+Integration;150%2B+DSA+Problems+Solved;Oracle+Cloud+Certified+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
-
-<br/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=800&color=1455A4¢er=true&vCenter=true&width=650&lines=👩‍💻+Final-Year+B.Tech+%7C+CSE+(AI);🚀+Full+Stack+MERN+Developer;🤖+LLM+%26+AI+API+Integration;📊+150%2B+DSA+Challenges+Solved;☁️+Oracle+Cloud+Infrastructure+Certified;🎯+Seeking+Campus+Placement+2027" alt="Typing SVG" />
+  </a>
+</p>
 
 <!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sonali99)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonali.yv99@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/sonali_999)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sonali-web-dev)
+<p align="center">
+  <a href="https://linkedin.com/in/sonali99" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="mailto:sonali.yv99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://leetcode.com/sonali_999" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-150%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>&nbsp;
+  <a href="https://github.com/Sonali-web-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sonali-web-dev&label=Profile+Views&color=1455a4&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Sonali-web-dev?label=Followers&style=for-the-badge&color=1455a4&logo=github" />
+</p>
 
 ---
 
 ## 🙋‍♀️ About Me
 
+<img align="right" alt="Coding" width="330" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
 ```yaml
-Name      : Sonali Yadav
-Degree    : B.Tech — Computer Science & Engineering (AI)
-College   : Maharana Pratap Engineering College, Kanpur
-Year      : Final Year | Expected Graduation: 2027
-Role      : Aspiring SDE / Full Stack Developer
-Location  : Kanpur, Uttar Pradesh, India
-Email     : sonali.yv99@gmail.com
+👩‍🎓 Name       : Sonali Yadav
+🎓 Degree     : B.Tech — Computer Science & Engineering (AI)
+🏫 College    : Maharana Pratap Engineering College, Kanpur
+📅 Graduation : Expected May 2027  (Final Year)
+💼 Goal       : Full Stack Developer / Software Development Engineer
+📍 Location   : Kanpur, Uttar Pradesh, India
+📧 Email      : sonali.yv99@gmail.com
 ```
-- 🌱 Deepening skills in **LLM Integration**, **REST API Security**, and **Cloud Infrastructure**
-- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, JWT Authentication, Google Gemini API**
+
+- 🌱 Currently deepening expertise in **LLM Integration**, **REST API Security** and **Cloud Infrastructure**
+- 💬 Ask me about **React.js · Node.js · Express.js · MongoDB · JWT · Google Gemini API**
 - 🏆 Solved **150+ DSA challenges** on LeetCode, CodeChef & GeeksforGeeks
-- ☁️ **Oracle Cloud Infrastructure 2025 Foundations Associate** Certified
-- 📄 [View My Resume](#) *(https://drive.google.com/file/d/1ufJSW0l5NHpvhBi3kiYnWpULILb7R9eT/view?usp=drive_link)*
+- ☁️ **Oracle Cloud Infrastructure (OCI) 2025 Foundations Associate Certified**
+- 🎯 Actively seeking **Full Stack Developer / SDE roles** through campus placement 2027
+- ⚡ Fun fact: I can debug for hours and still smile when it finally works 😄
+
+<br clear="right"/>
 
 ---
-## 🛠️ Tech Stack & Skills
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
-
+### 💻 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frontend**
-
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Context API](https://img.shields.io/badge/Context_API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-1455a4?style=for-the-badge&logo=css3&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive_Design-1455a4?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend**
-
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Cloud & DevOps**
-
+### ☁️ Cloud, AI & Tools
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -87,49 +100,58 @@ Email     : sonali.yv99@gmail.com
 
 <div align="center">
 
-<!-- NOTE: Stats cards require your GitHub repos to be PUBLIC and have commits -->
-<!-- They auto-populate once you push code to your repos -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sonali-web-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=1455a4&icon_color=1455a4&text_color=a9fef7&bg_color=1a1b27" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonali-web-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=1455a4&text_color=a9fef7&bg_color=1a1b27" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sonali-web-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=1455a4&icon_color=1455a4" height="170" />&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonali-web-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=1455a4&langs_count=8" height="170" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sonali-web-dev&theme=tokyonight&hide_border=true&ring=1455a4&fire=ff9900&currStreakLabel=1455a4" width="55%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Sonali-web-dev&theme=tokyonight&hide_border=true&ring=1455a4&fire=ff9900&currStreakLabel=1455a4" width="55%" />
 
 <br/><br/>
 
-<!-- Activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sonali-web-dev&theme=tokyo-night&hide_border=true&color=1455a4&line=1455a4&point=ffffff" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sonali-web-dev&theme=tokyo-night&hide_border=true&color=1455a4&line=1455a4&point=ffffff&area=true" width="100%" />
 
 </div>
-
-> ⚠️ **Stats not showing?** Make sure your repositories are **public** and you have pushed commits.
-> Stats update every 24 hours automatically.
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sonali-web-dev&theme=tokyonight&no-frame=true&row=1&column=6&title=Stars,Commit,Repositories,PullRequest,Issues,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Sonali-web-dev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 
 </div>
 
-<br/>
+---
+
+## 📜 Certifications
+
+<div align="center">
 
 | 🏅 Certificate | 🏢 Issuer | 📅 Year |
-|---|---|---|
+|:---|:---|:---:|
 | ☁️ Oracle Cloud Infrastructure 2025 Foundations Associate | Oracle University | 2025 |
 | 💻 Full Stack Web Development | Apna College | 2025 |
 | 🧮 Data Structures and Algorithms | Apna College | 2025 |
 | 🐍 Python for Data Science | IBM | 2023–24 |
 
-**🎯 Coding Profiles**
+</div>
 
-- ⭐ **150+ DSA problems** solved — [LeetCode: sonali_999](https://leetcode.com/sonali_999)
-- ⭐ **5-Star C++** rating on HackerRank
+---
+
+## 🎯 Achievements
+
+<div align="center">
+
+| Achievement | Details |
+|:---|:---|
+| 🧩 **150+ DSA Problems** | Solved on LeetCode, CodeChef & GeeksforGeeks |
+| ⭐ **HackerRank** | 5-Star Rating in C++ |
+| ☁️ **Oracle Cloud Certified** | OCI Foundations Associate 2025 |
+| 🎓 **Full Stack Certified** | Apna College — MERN Stack (2025) |
+
+</div>
 
 ---
 
@@ -137,28 +159,26 @@ Email     : sonali.yv99@gmail.com
 
 <div align="center">
 
+<p>I am actively seeking <b>Full Stack Developer / SDE roles</b> through campus placement 2027.<br/>
+Open to exciting projects, collaborations, and opportunities!</p>
+
 <a href="https://linkedin.com/in/sonali99">
-  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
 <a href="mailto:sonali.yv99@gmail.com">
-  <img src="https://img.shields.io/badge/Drop_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sonali-web-dev&color=1455a4&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=100§ion=footer" width="100%" />
 
-</div>
+<br/>
 
----
+<i>"Code is not just syntax — it is the bridge between imagination and reality."</i>
 
-<div align="center">
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1455a4&height=100§ion=footer" width="100%" />
-
-<em>"Code is not just syntax — it's the bridge between imagination and reality."</em>
-
-⭐ **If you find my projects helpful, please consider giving them a star!** ⭐
+⭐ <b>If you find my work helpful, please consider giving it a star!</b> ⭐
 
 </div>
