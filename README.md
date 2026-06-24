@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:A855F7&height=200&section=header&text=Sonali%20Yadav&fontSize=50&fontColor=fbbf24&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20B.Tech%20CSE%20(AI)&descAlignY=58&descSize=16&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:A855F7&height=200&section=header&text=Sonali%20Yadav&fontSize=50&fontColor=22d3ee&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20B.Tech%20CSE%20(AI)&descAlignY=58&descSize=16&animation=twinkling" width="100%"/>
 
 <br/>
 
@@ -11,7 +11,7 @@
 <svg width="700" height="60" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#fbbf24"/>
+      <stop offset="0%"   stop-color="#22d3ee"/>
       <stop offset="35%"  stop-color="#A855F7"/>
       <stop offset="70%"  stop-color="#ec4899"/>
       <stop offset="100%" stop-color="#6366f1"/>
@@ -32,24 +32,24 @@
 ![](https://img.shields.io/badge/MERN_Stack-Developer-0f172a?style=for-the-badge&labelColor=A855F7)
 ![](https://img.shields.io/badge/LLM-AI_Integration-0f172a?style=for-the-badge&labelColor=ec4899)
 ![](https://img.shields.io/badge/150%2B-DSA_Solved-0f172a?style=for-the-badge&labelColor=6366f1)
-![](https://img.shields.io/badge/Oracle_Cloud-Certified-0f172a?style=for-the-badge&labelColor=fbbf24&color=fbbf24)
+![](https://img.shields.io/badge/Oracle_Cloud-Certified-0f172a?style=for-the-badge&labelColor=22d3ee&color=22d3ee)
 
 <br/><br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1e1b4b?style=for-the-badge&logo=linkedin&logoColor=fbbf24)](https://linkedin.com/in/sonali99)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1e1b4b?style=for-the-badge&logo=linkedin&logoColor=22d3ee)](https://linkedin.com/in/sonali99)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-Email_Me-1e1b4b?style=for-the-badge&logo=gmail&logoColor=ec4899)](mailto:sonali.yv99@gmail.com)
 &nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-150%2B-1e1b4b?style=for-the-badge&logo=leetcode&logoColor=fbbf24)](https://leetcode.com/sonali_999)
+[![LeetCode](https://img.shields.io/badge/LeetCode-150%2B-1e1b4b?style=for-the-badge&logo=leetcode&logoColor=22d3ee)](https://leetcode.com/sonali_999)
 &nbsp;
 [![Resume](https://img.shields.io/badge/Resume-View_PDF-1e1b4b?style=for-the-badge&logo=googledrive&logoColor=A855F7)](https://drive.google.com/file/d/1ufJSW0l5NHpvhBi3kiYnWpULILb7R9eT/view?usp=drive_link)
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sonali-web-dev&color=fbbf24&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Sonali-web-dev&color=22d3ee&style=flat-square&label=Profile+Views)
 &nbsp;
-![Followers](https://img.shields.io/github/followers/Sonali-web-dev?color=fbbf24&style=flat-square&logo=github&label=Followers)
+![Followers](https://img.shields.io/github/followers/Sonali-web-dev?color=22d3ee&style=flat-square&logo=github&label=Followers)
 
 </div>
 
@@ -90,7 +90,7 @@
 <td valign="top" width="33%">
 
 ### 🎨 Frontend Mastery
-![React](https://img.shields.io/badge/-React.js-1e1b4b?style=flat-square&logo=react&logoColor=fbbf24)
+![React](https://img.shields.io/badge/-React.js-1e1b4b?style=flat-square&logo=react&logoColor=22d3ee)
 ![Context](https://img.shields.io/badge/-Context_API-1e1b4b?style=flat-square&logo=react&logoColor=A855F7)
 ![Responsive](https://img.shields.io/badge/-Responsive_UI-1e1b4b?style=flat-square&logo=css3&logoColor=ec4899)
 
@@ -100,7 +100,7 @@ Builds fast, accessible, mobile‑first interfaces with reusable component archi
 <td valign="top" width="33%">
 
 ### ⚙️ Backend & APIs
-![Node](https://img.shields.io/badge/-Node.js-1e1b4b?style=flat-square&logo=nodedotjs&logoColor=fbbf24)
+![Node](https://img.shields.io/badge/-Node.js-1e1b4b?style=flat-square&logo=nodedotjs&logoColor=22d3ee)
 ![Express](https://img.shields.io/badge/-Express.js-1e1b4b?style=flat-square&logo=express&logoColor=A855F7)
 ![JWT](https://img.shields.io/badge/-JWT_Auth-1e1b4b?style=flat-square&logo=jsonwebtokens&logoColor=ec4899)
 
@@ -110,7 +110,7 @@ Designs secure REST APIs with JWT‑based authentication, clean MVC structure, a
 <td valign="top" width="33%">
 
 ### 🤖 AI & Cloud
-![Gemini](https://img.shields.io/badge/-Gemini_API-1e1b4b?style=flat-square&logo=google&logoColor=fbbf24)
+![Gemini](https://img.shields.io/badge/-Gemini_API-1e1b4b?style=flat-square&logo=google&logoColor=22d3ee)
 ![Oracle](https://img.shields.io/badge/-Oracle_Cloud-1e1b4b?style=flat-square&logo=oracle&logoColor=A855F7)
 ![MongoDB](https://img.shields.io/badge/-MongoDB_Atlas-1e1b4b?style=flat-square&logo=mongodb&logoColor=ec4899)
 
@@ -145,7 +145,7 @@ Integrates LLM‑powered features (Gemini API) into production apps; OCI 2025 Fo
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/📄%20VIEW%20MY%20RESUME-Click%20Here-1e1b4b?style=for-the-badge&labelColor=0f172a&color=fbbf24)](https://drive.google.com/file/d/1ufJSW0l5NHpvhBi3kiYnWpULILb7R9eT/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/📄%20VIEW%20MY%20RESUME-Click%20Here-1e1b4b?style=for-the-badge&labelColor=0f172a&color=22d3ee)](https://drive.google.com/file/d/1ufJSW0l5NHpvhBi3kiYnWpULILb7R9eT/view?usp=drive_link)
 
 </div>
 
@@ -157,9 +157,9 @@ Integrates LLM‑powered features (Gemini API) into production apps; OCI 2025 Fo
 
 **💻 Languages**
 
-![C++](https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=c%2B%2B&logoColor=fbbf24)
-![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=fbbf24)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-0f172a?style=for-the-badge&logo=javascript&logoColor=fbbf24)
+![C++](https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=c%2B%2B&logoColor=22d3ee)
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=22d3ee)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-0f172a?style=for-the-badge&logo=javascript&logoColor=22d3ee)
 ![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=ec4899)
 ![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=A855F7)
 
@@ -172,23 +172,23 @@ Integrates LLM‑powered features (Gemini API) into production apps; OCI 2025 Fo
 
 **⚙️ Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=fbbf24)
-![Express.js](https://img.shields.io/badge/Express.js-0f172a?style=for-the-badge&logo=express&logoColor=fbbf24)
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=22d3ee)
+![Express.js](https://img.shields.io/badge/Express.js-0f172a?style=for-the-badge&logo=express&logoColor=22d3ee)
 ![REST API](https://img.shields.io/badge/REST_API-0f172a?style=for-the-badge&logo=postman&logoColor=ec4899)
 ![JWT](https://img.shields.io/badge/JWT_Auth-0f172a?style=for-the-badge&logo=jsonwebtokens&logoColor=A855F7)
 
 **🗄️ Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-0f172a?style=for-the-badge&logo=mongodb&logoColor=fbbf24)
-![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=fbbf24)
+![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-0f172a?style=for-the-badge&logo=mongodb&logoColor=22d3ee)
+![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=22d3ee)
 
 **☁️ Cloud, AI & Tools**
 
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-1e1b4b?style=for-the-badge&logo=oracle&logoColor=fbbf24)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-1e1b4b?style=for-the-badge&logo=oracle&logoColor=22d3ee)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini_API-1e1b4b?style=for-the-badge&logo=google&logoColor=A855F7)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-1e1b4b?style=for-the-badge&logo=puppeteer&logoColor=ec4899)
-![Git](https://img.shields.io/badge/Git-1e1b4b?style=for-the-badge&logo=git&logoColor=fbbf24)
-![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=fbbf24)
+![Git](https://img.shields.io/badge/Git-1e1b4b?style=for-the-badge&logo=git&logoColor=22d3ee)
+![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=22d3ee)
 ![Postman](https://img.shields.io/badge/Postman-1e1b4b?style=for-the-badge&logo=postman&logoColor=ec4899)
 ![VS Code](https://img.shields.io/badge/VS_Code-1e1b4b?style=for-the-badge&logo=visualstudiocode&logoColor=A855F7)
 
@@ -204,11 +204,11 @@ Integrates LLM‑powered features (Gemini API) into production apps; OCI 2025 Fo
 
 <div align="center">
 
-![React](https://img.shields.io/badge/-React.js-1e1b4b?style=flat-square&logo=react&logoColor=fbbf24)
-![Node](https://img.shields.io/badge/-Node.js-1e1b4b?style=flat-square&logo=nodedotjs&logoColor=fbbf24)
+![React](https://img.shields.io/badge/-React.js-1e1b4b?style=flat-square&logo=react&logoColor=22d3ee)
+![Node](https://img.shields.io/badge/-Node.js-1e1b4b?style=flat-square&logo=nodedotjs&logoColor=22d3ee)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-1e1b4b?style=flat-square&logo=mongodb&logoColor=A855F7)
 ![Gemini](https://img.shields.io/badge/-Gemini_API-1e1b4b?style=flat-square&logo=google&logoColor=ec4899)
-![Puppeteer](https://img.shields.io/badge/-Puppeteer-1e1b4b?style=flat-square&logo=puppeteer&logoColor=fbbf24)
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-1e1b4b?style=flat-square&logo=puppeteer&logoColor=22d3ee)
 
 | Metric | Result |
 |:---|:---:|
@@ -231,17 +231,17 @@ A solo-built, full-stack platform that analyzes resumes and conducts AI-driven m
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sonali-web-dev&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=fbbf24&icon_color=A855F7&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sonali-web-dev&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22d3ee&icon_color=A855F7&text_color=c9d1d9"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonali-web-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=fbbf24&text_color=c9d1d9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonali-web-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=22d3ee&text_color=c9d1d9&langs_count=8"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Sonali-web-dev&theme=radical&hide_border=true&background=0D1117&ring=fbbf24&fire=ec4899&currStreakLabel=fbbf24&sideLabels=A855F7&dates=8b949e&stroke=0D1117" width="55%"/>
+<img src="https://streak-stats.demolab.com?user=Sonali-web-dev&theme=radical&hide_border=true&background=0D1117&ring=22d3ee&fire=ec4899&currStreakLabel=22d3ee&sideLabels=A855F7&dates=8b949e&stroke=0D1117" width="55%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sonali-web-dev&bg_color=0D1117&color=fbbf24&line=A855F7&point=ec4899&area=true&area_color=1e1b4b&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sonali-web-dev&bg_color=0D1117&color=22d3ee&line=A855F7&point=ec4899&area=true&area_color=1e1b4b&hide_border=true" width="100%"/>
 
 </div>
 
@@ -284,7 +284,7 @@ A solo-built, full-stack platform that analyzes resumes and conducts AI-driven m
 <p>I am actively seeking <b>Full Stack Developer / SDE roles</b> through campus placement 2027.<br/>
 Open to exciting projects, collaborations, and opportunities!</p>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-1e1b4b?style=for-the-badge&logo=linkedin&logoColor=fbbf24)](https://linkedin.com/in/sonali99)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-1e1b4b?style=for-the-badge&logo=linkedin&logoColor=22d3ee)](https://linkedin.com/in/sonali99)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Send_an_Email-1e1b4b?style=for-the-badge&logo=gmail&logoColor=ec4899)](mailto:sonali.yv99@gmail.com)
 &nbsp;
@@ -303,3 +303,4 @@ Open to exciting projects, collaborations, and opportunities!</p>
 ⭐ <b>If you find my work helpful, please consider giving it a star!</b> ⭐
 
 </div>
+
