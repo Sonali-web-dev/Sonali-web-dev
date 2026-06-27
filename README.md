@@ -22,7 +22,7 @@
         font-family="Segoe UI, Arial, sans-serif"
         font-size="19" font-weight="700"
         fill="url(#g1)">
-    👩‍💻 Engineer Sonali yadav | Full Stack MERN Developer | Oracle Cloud Certified
+    👩‍💻 Engineer Sonali yadav|Bachelor of Technology in Computer Science Engineering with Artificial Intelligence | Full Stack MERN Developer | Oracle Cloud Certified
   </text>
 </svg>
 
