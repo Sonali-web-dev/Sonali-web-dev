@@ -28,6 +28,7 @@
   </text>
 </svg>
 <br/>
+
 <!-- Skill pills -->
 ![](https://img.shields.io/badge/MERN_Stack-Developer-0f172a?style=for-the-badge&labelColor=A855F7)
 ![](https://img.shields.io/badge/LLM-AI_Integration-0f172a?style=for-the-badge&labelColor=ec4899)
