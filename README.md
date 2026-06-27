@@ -22,7 +22,9 @@
         font-family="Segoe UI, Arial, sans-serif"
         font-size="19" font-weight="700"
         fill="url(#g1)">
+    
 👩‍💻 Sonali Yadav | B.Tech CSE (Artificial Intelligence) | Full Stack MERN Developer | Oracle Cloud Certified | Building Scalable Web Solutions
+
   </text>
 </svg>
 
